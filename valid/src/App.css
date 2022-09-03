@@ -1,0 +1,28 @@
+.valid-dorm {
+    display: grid;
+    width: 50%;
+    margin: 0 auto;
+}
+.email-input {
+    padding: 10px 20px;
+    background: none;
+    border: 1px solid lightblue;
+    outline: none;
+    font-size: 18px;
+
+}
+.password-input {
+    padding: 10px 20px;
+    background: none;
+    border: 1px solid lightblue;
+    font-size: 18px;
+    outline: none;
+}
+.btn {
+    background-color: lightblue;
+    padding: 10px 20px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
